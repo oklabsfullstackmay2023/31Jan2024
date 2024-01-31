@@ -1,0 +1,10 @@
+
+x=10 #global variable
+#1. function defination is one time process
+def add():
+	y=20 #local variable
+	print(x+y)
+
+add()
+
+
